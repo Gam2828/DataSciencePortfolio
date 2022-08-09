@@ -1,12 +1,13 @@
 ## Welcome to Jas Gambhir's Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/Gam2828/DataScienceProjects.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Description Name URL link [editor on GitHub](https://github.com/Gam2828/DataScienceProjects.github.io/edit/main/README.md) 
+Description continues
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Description Name URL link [Jekyll](https://jekyllrb.com/) Description continues
 
 ### Project 1 Name 
 
-Project 1 description
+Project 1 Description add link after naming here [repository settings](https://github.com/Gam2828/DataSciencePortfolio.github.io/settings/pages). add text and file type as required `_config.yml` configuration file.
 
 ```markdown
 Syntax highlighted code block
@@ -29,13 +30,13 @@ Add images from Project 2
 ```
 
 Update the following text: 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Description Name URL link  [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Project 2
 
 Project 2 Description add link after naming here [repository settings](https://github.com/Gam2828/DataSciencePortfolio.github.io/settings/pages). add text and file type as required `_config.yml` configuration file.
 ```markdown
-Syntax highlighted code block
+Project 2 Code 
 
 # Header 1
 ## Header 2
