@@ -1,7 +1,7 @@
 # Jas Gambhir's Data Science Portfolio
 *An Aspiring Data Scientist
 
-# Overview
+## Overview
 Why this document is created: showcase Data Science Skills
 What you are showcasing in below: 
 
