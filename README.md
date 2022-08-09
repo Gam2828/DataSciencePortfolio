@@ -35,6 +35,9 @@ Description Name URL link  [Basic writing and formatting syntax](https://docs.gi
 ### Project 2
 
 Project 2 Description add link after naming here [Project2](https://github.com/Gam2828/DataSciencePortfolio.github.io/settings/pages). add text and file type as required `_config.yml` configuration file.
+
+Description Name URL link [Data Source](https://jekyllrb.com/) Description continues
+
 ```markdown
 Project 2 Code 
 
