@@ -1,17 +1,10 @@
 # Jas Gambhir's Data Science Portfolio
 *An Aspiring Data Scientist
 
-# Education 
-Master of Data Science Strategy & Leadership  *RMIT University*
+# Overview
+Why this document is created: showcase Data Science Skills
+What you are showcasing in below: 
 
-Post Graduate Certificate Data Analytics  *University of Newcastle*
-
-Bachelor's of Commerce & Accounting  *Delhi University*
-
-Description Name URL link [Project1](https://github.com/Gam2828/DataScienceProjects.github.io/edit/main/README.md) 
-Description continues
-
-Description of the data Name URL link [Data Source](https://jekyllrb.com/) Description continues
 
 
 ### Project 1: Name 
@@ -21,7 +14,10 @@ add images using drag and drop in Data Science Portfolio folder along with readm
 
 (copy author link from Unsplash and paste here) 
 
-Project 1 Description add link after naming here [repository settings](https://github.com/Gam2828/DataSciencePortfolio.github.io/settings/pages). add text and file type as required `_config.yml` configuration file.
+Description Name URL link [Project1](https://github.com/Gam2828/DataScienceProjects.github.io/edit/main/README.md) 
+Description continues
+
+Description of the data Name URL link [Data Source](https://jekyllrb.com/) Description continuesadd text and file type as required `_config.yml` configuration file.
 
 This project integrates various --- for perfoming --- analysis pertaining to ---.
 * **Python libraries used:** Streamlit, Hugging face, Tensor flow (update this as per the project)
