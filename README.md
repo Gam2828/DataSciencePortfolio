@@ -1,13 +1,28 @@
-## Welcome to Jas Gambhir's Data Science Portfolio
+# Jas Gambhir's Data Science Portfolio
+*An Aspiring Data Scientist
+
+# Education 
+*Master of Data Science Strategy & Leadership  *RMIT University*
+*Post Graduate Certificate Data Analytics  *University of Newcastle*
+*Bachelor's of Commerce & Accounting  *Delhi University*
 
 Description Name URL link [Project1](https://github.com/Gam2828/DataScienceProjects.github.io/edit/main/README.md) 
 Description continues
 
 Description Name URL link [Data Source](https://jekyllrb.com/) Description continues
 
-### Project 1 Name 
+
+### Project 1: Name 
+![alt text](link to unsplash.jpg) adding an image downloaded from Unsplash (download small size not original) 
+
+Photo by <q href="url link" from Unsplash (copy link from Unsplash and paste here)
 
 Project 1 Description add link after naming here [repository settings](https://github.com/Gam2828/DataSciencePortfolio.github.io/settings/pages). add text and file type as required `_config.yml` configuration file.
+
+This project integrates various --- for perfoming --- analysis pertaining to ---.
+* **Python libraries used:** Streamlit, Hugging face, Tensor flow (update this as per the project)
+* **Input:** Data inputs like tweet, comments etc
+* **Output:** Sentiment analys of ---
 
 ```markdown
 Syntax highlighted code block
