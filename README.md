@@ -1,9 +1,9 @@
 ## Welcome to Jas Gambhir's Data Science Portfolio
 
-Description Name URL link [editor on GitHub](https://github.com/Gam2828/DataScienceProjects.github.io/edit/main/README.md) 
+Description Name URL link [Project1](https://github.com/Gam2828/DataScienceProjects.github.io/edit/main/README.md) 
 Description continues
 
-Description Name URL link [Jekyll](https://jekyllrb.com/) Description continues
+Description Name URL link [Data Source](https://jekyllrb.com/) Description continues
 
 ### Project 1 Name 
 
@@ -34,7 +34,7 @@ Description Name URL link  [Basic writing and formatting syntax](https://docs.gi
 
 ### Project 2
 
-Project 2 Description add link after naming here [repository settings](https://github.com/Gam2828/DataSciencePortfolio.github.io/settings/pages). add text and file type as required `_config.yml` configuration file.
+Project 2 Description add link after naming here [Project2](https://github.com/Gam2828/DataSciencePortfolio.github.io/settings/pages). add text and file type as required `_config.yml` configuration file.
 ```markdown
 Project 2 Code 
 
