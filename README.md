@@ -8,9 +8,9 @@ What you are showcasing in below:
 
 
 ### Project 1: Name 
-![alt text](link to unsplash.jpg) adding an image downloaded from Unsplash (download small size not original) 
+![alt text]([https://lerablog.org/wp-content/uploads/2021/05/Financial-Technology.jpg])
 
-add images using drag and drop in Data Science Portfolio folder along with readme and other files
+
 
 (copy author link from Unsplash and paste here) 
 
