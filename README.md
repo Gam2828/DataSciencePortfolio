@@ -11,9 +11,6 @@ What you are showcasing in below:
 ![alt text]([https://lerablog.org/wp-content/uploads/2021/05/Financial-Technology.jpg])
 
 
-
-(copy author link from Unsplash and paste here) 
-
 Description Name URL link [Project1](https://github.com/Gam2828/DataScienceProjects.github.io/edit/main/README.md) 
 Description continues
 
